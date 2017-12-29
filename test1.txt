@@ -2,3 +2,4 @@ Maser commit 1
 Maser commit 2
 Maser commit 3
 Branch2 commit 1
+Branch2 commit 2
