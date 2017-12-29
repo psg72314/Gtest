@@ -5,3 +5,5 @@ Maser commit 4
 Maser commit 5
 Branch1 commit 1
 Branch1 commit 2
+Branch2 commit 1
+Branch2 commit 2
